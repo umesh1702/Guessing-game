@@ -1,1 +1,1 @@
-This a program to print a code or hotel menu
+This a program to print a code for hotel menu
